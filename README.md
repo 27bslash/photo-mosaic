@@ -1,0 +1,1 @@
+Takes 1 folder of source images and recreates target image out of source images
